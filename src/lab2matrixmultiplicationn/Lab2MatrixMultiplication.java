@@ -1,7 +1,7 @@
-/*
+/* 
 *Please be careful while inputting a matrix.
 *Seperate the row elements by "Spaces" and to proceed to next column 
-*Press "Enter"
+*Press "Enter" .
  */
 package lab2matrixmultiplicationn;
 
